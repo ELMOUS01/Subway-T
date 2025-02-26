@@ -1,5 +1,5 @@
 {
     "Link1": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DTKF3CXM",
     "Link2": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DTKF3CXM",
-    "ShowUpcomingUpdatePanel": "true"
+    "ShowUpcomingUpdatePanel": "false"
 }
